@@ -1,0 +1,17 @@
+commit dfafaddc6dad2c63723e07b51f7c151de27a578f
+Author: magali <magali@gmail.com>
+Date:   Tue Mar 26 23:46:14 2019 -0600
+
+    En el archivo .css cambie la imagen del logo de la pagina, y algunos tamños como tambien la letra, y en el otro archivo le agregue la ubicación y la informacion de contacto
+
+commit 8bc6c22d35ad0224f0dc5f9044ed2625933818c6
+Author: magali <magali@gmail.com>
+Date:   Tue Mar 26 23:30:41 2019 -0600
+
+    En el archivo index.html, he agregado las imagenes de inicio como también cambie el menú, y en la carpeta images agregue una imagen
+
+commit 37b8af8f47e09b9263256555df1fbc53fb615f32
+Author: magali <magali@gmail.com>
+Date:   Tue Mar 26 22:49:42 2019 -0600
+
+    Hemos iniciado a trabajar con nuestro proyecto
