@@ -217,11 +217,12 @@ textarea:focus {
 }
 
 .main-btn {
-  color: white;
+  color: blue;
   border: 1px solid white;
   padding: 12px 20px;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 800;
+
   display: inline-block;
 }
 
@@ -229,6 +230,7 @@ hr {
   display: block;
   height: 1px;
   border: 0;
+  background: red:
   border-top: 1px solid #e2e2e2;
   margin: 40px 0;
 }
@@ -576,6 +578,7 @@ hr {
 
 #service-1 {
   background-color: #1abc9c;
+
 }
 
 #service-2 {
